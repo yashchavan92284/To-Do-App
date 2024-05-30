@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
-import 'package:path/path.dart ' as path;
+import 'package:path/path.dart' as path;
 import 'package:sqflite/sqflite.dart';
 
 class ToDoApp extends StatefulWidget {
